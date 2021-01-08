@@ -2,8 +2,8 @@
 Calculates the chance of winning for a team in Tom Clancy's Rainbow Six: Siege.
 
 # Contents
-1. [How to install](-#how-to-install)
-2. [Features](#-features)
+1. [How to install](#how-to-install)
+2. [Features](#features)
 
 # How to install
 1. Make sure you have Python version 3.7 or higher installed. If you don't have it installed, download it from https://www.python.org/downloads/.
