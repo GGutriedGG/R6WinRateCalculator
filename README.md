@@ -2,7 +2,7 @@
 Calculates the chance of winning for a team in Tom Clancy's Rainbow Six: Siege.
 
 # Contents
-1. [How to install](#-how-to-install)
+1. [How to install](-#how-to-install)
 2. [Features](#-features)
 
 # How to install
